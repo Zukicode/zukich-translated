@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zukich-translated/static/css/main.464ab9e4.css",
+    "main.js": "/zukich-translated/static/js/main.025e565d.js",
+    "static/media/bg.jpg": "/zukich-translated/static/media/bg.3d584b44bac154c0112e.jpg",
+    "static/media/switch.svg": "/zukich-translated/static/media/switch.027b7ffd058473deefa9d9ac0ad889b2.svg",
+    "index.html": "/zukich-translated/index.html",
+    "main.464ab9e4.css.map": "/zukich-translated/static/css/main.464ab9e4.css.map",
+    "main.025e565d.js.map": "/zukich-translated/static/js/main.025e565d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464ab9e4.css",
+    "static/js/main.025e565d.js"
+  ]
+}
