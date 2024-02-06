@@ -1,0 +1,37 @@
+.application {
+	min-height: calc(100dvh - 80px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 50px;
+
+	.logo {
+		display: flex;
+		align-items: center;
+		gap: 7px;
+
+		svg {
+			width: 40px;
+			height: 40px;
+			fill: var(--white);
+		}
+
+		h1 {
+			color: var(--white);
+			font-weight: 300;
+			font-size: 26px;
+		}
+	}
+
+	.content {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		gap: 20px;
+
+		@media (max-width: 1024px) {
+			flex-direction: column;
+		}
+	}
+}
